@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main(void) {
+
+    // Definição da primeira carta
     char carta1_estado = 'A';
     char carta1_codigo[] = "A01";
     char carta1_nome[] = "São Paulo";
@@ -9,6 +11,7 @@ int main(void) {
     float carta1_pib = 699.28;
     int carta1_pontos_turisticos = 50;
 
+    // Definição da segunda carta
     char carta2_estado = 'B';
     char carta2_codigo[] = "B02";
     char carta2_nome[] = "Rio de Janeiro";
